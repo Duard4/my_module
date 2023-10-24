@@ -110,6 +110,6 @@
     }
     
     .menu_link {
-        font-size: calc(var(--subtitle-size)*0.8*0.81);
+        font-size: calc(var(--subtitle-size)*0.8*0.64);
     }
 }
